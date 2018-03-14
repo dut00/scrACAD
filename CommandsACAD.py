@@ -1,8 +1,5 @@
 """Ten moduł zawiera komendy wykorzystywane w Audocadzie"""
 
-# Działa tylko gdy po ostatnim narysowanym / wstawonym obiekcie
-
-
 def cARRAYPOLAR(x_0=0, y_0=0, number_of_items=6, fill_angle=360, rotate_items="Y"):
     """Szyk  biegunowy"""
     print("_arraypolar")
