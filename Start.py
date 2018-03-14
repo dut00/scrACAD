@@ -97,7 +97,7 @@ class InfoTable:
     adres_1 = "Wieża BOT-E2/54 wys. całk. H=55,95m"
     adres_2 = "Wierzchucin, 89-512 Iwiec, dz. nr 120 obręb 0013 Wysoka"
     opracowal = "inż. Jan Kowalski"
-    nr_stacji = "TUC 0901 B"
+    nr_stacji = "TUC 0001 X"
     faza = "PROJEKT WYKONAWCZY"
     nazwa_rysunku = "FUNDAMENT cz.1"
     skala = "1:50"
